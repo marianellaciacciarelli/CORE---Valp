@@ -136,7 +136,7 @@ export default function SessionConfigView() {
                 </select>
               </div>
               <div className="space-y-1">
-                <label className="text-[10px] font-bold text-slate-400 uppercase">Secretario Técnico</label>
+                <label className="text-[10px] font-bold text-slate-400 uppercase">Secretario Ejecutivo</label>
                 <select className="w-full p-3 rounded-xl border border-slate-200 text-sm focus:outline-none">
                   <option>Javier Espinoza Ruiz</option>
                 </select>
